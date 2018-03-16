@@ -35,14 +35,14 @@ To Serve on LAN or localhost
 
 
 
-> To host on firebase
+##### To host on firebase
 
 
- login with your firebase account by 
+- login with your firebase account by 
 
 ```firebase login```
 
--And select your account
+- And select your account
 
 
    Initialize firebase
@@ -51,7 +51,7 @@ To Serve on LAN or localhost
 
 -select appropriate options
 
-   Deploy
+- Deploy
 
 ```firebase deploy```
 
