@@ -45,7 +45,7 @@ To Serve on LAN or localhost
 - And select your account
 
 
-   Initialize firebase
+- Initialize firebase
 
 ```firebase init```
 
