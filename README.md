@@ -38,7 +38,7 @@ To Serve on LAN or localhost
 > To host on firebase
 
 
-    login with your firebase account by 
+ login with your firebase account by 
 
 ```firebase login```
 -And select your account
