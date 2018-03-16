@@ -41,14 +41,24 @@ To Serve on LAN or localhost
  login with your firebase account by 
 
 ```firebase login```
+
 -And select your account
 
 
    Initialize firebase
+
 ```firebase init```
+
 -select appropriate options
 
    Deploy
+
 ```firebase deploy```
+
+
+
+
+
+
 
 *Please do click the star on the top of the page :innocent:*
