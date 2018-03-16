@@ -49,7 +49,7 @@ To Serve on LAN or localhost
 
 ```firebase init```
 
-- select appropriate options
+- select appropriate options i.e Realtime DB and Hosting 
 
 - Deploy with
 
