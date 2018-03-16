@@ -11,7 +11,7 @@
 ### user guide :ledger:
 
 
-   ##### Initailize Firebase  
+   ##### Configure Firebase  
 Create a firebase account and copy your credentails in Config.js file in 
 > scr/Config/Config.js
 
