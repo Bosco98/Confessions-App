@@ -1,24 +1,25 @@
 # Confessions-App :thought_balloon:
 
+
 ### Discribtion :pencil:
 *This App is a game for a group of people/friends to give anonymous comments and suggestions or criticism for a group..*
 
 
-###To Use :memo:
+### user guide :ledger:
 
-#####Initailize Firebase  
+##### Initailize Firebase  
 Create a firebase account and copy your credentails in Config.js file in 
 > scr/Config/Config.js
 
-#####Install Dependencies
+##### Install Dependencies
 Install the Depenedencies with NPM
 ```npm install```
 
-#####To start
+##### To start
 To Serve on LAN or localhost
 ```npm start```
 
-#####Production Use
+##### Production Use
 ```npm build```
 
 To host on firebase
