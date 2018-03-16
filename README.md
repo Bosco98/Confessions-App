@@ -3,7 +3,7 @@
 
 
 ### Discribtion :pencil:
-*This App is a game for a group of people/friends to give anonymous comments and suggestions or criticism for a group..*
+*This App is a game for a group of people/friends to give anonymous comments and suggestions or criticism ...*
 
 
 
