@@ -45,13 +45,13 @@ To Serve on LAN or localhost
 - And select your account
 
 
-- Initialize firebase
+- Initialize firebase by 
 
 ```firebase init```
 
--select appropriate options
+- select appropriate options
 
-- Deploy
+- Deploy with
 
 ```firebase deploy```
 
