@@ -1,0 +1,58 @@
+html{
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  min-height:100%;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+
+* {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1px;
+  border: 0;
+}
+
+.notesWrapper {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  height: 100%;
+}
+
+.notesHeader {
+  display: flex;
+  flex: 1 1 5%;
+  min-height: 2.5em;
+  max-height: 2em;
+  font-size: 1.5em;
+  color: rgb(255, 254, 254);
+  font-family: 'Droid Sans', sans-serif;
+  text-align: center;
+  align-content: center;
+  padding:14px 5px 5px 5px;
+  margin-bottom: 6px;
+  background-color: #02BA85;
+  text-shadow: 3px 3px 10px #000;
+  display: block;
+}
+
+.notesBody {
+  padding-top: 24px;
+  display: flex;
+  flex: 1 1 85%;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+.notesFooter {
+  display: flex;
+  flex: 1 1 12%;
+  background-color: rgba(0,0,0,0.5);
+}
