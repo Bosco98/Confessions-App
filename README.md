@@ -58,7 +58,3 @@ To Serve on LAN or localhost
 
 
 
-
-
-
-*Please do click the star on the top of the page :innocent:*
